@@ -1,7 +1,5 @@
 # Welcome to NixVPN #
 
-## How to install ##
-
 ## Supported OS ##
 
 - CentOS 7
